@@ -23,7 +23,7 @@
 
 ## ملاحظات
 - إذا حدّثت ستيم اللعبة، ملفات التعريب ترجع لأصلها. ثبّت إصدار التعريب اللي يناسب التحديث.
-- باقي بالإنجليزي: كم رسالة قليلة مكتوبة داخل كود اللعبة (محلل الخام وماسح الموارد وغيرها)، ولوحة الأخبار من الإنترنت.
+- باقي بالإنجليزي: كم كلمة قليلة مكتوبة داخل كود اللعبة (مثل Node وDeposit Hopper في ماسح الموارد)، ولوحة الأخبار من الإنترنت.
 - الخط: Liberation Sans مع Noto Sans Arabic (رخصة SIL Open Font License 1.1).
 - كود البرنامج موجود في مجلد [`app`](app) في هذي الصفحة، وتقدر تبنيه بنفسك بـ `build.cmd`.
 
@@ -57,8 +57,8 @@ Open `MineMogulArabic.exe` and click "Uninstall". Your original files come back 
 
 ### Notes
 - If Steam updates the game, its files go back to the originals. Install the translation version made for that update.
-- Still in English: a few messages written in the game's code (Ore Analyzer, Resource Scanner and others), and the
-  online news panel.
+- Still in English: a few words written in the game's code (such as Node and Deposit Hopper in the Resource Scanner), and
+  the online news panel.
 - Font: Liberation Sans with Noto Sans Arabic (SIL Open Font License 1.1).
 - The program's source is in the [`app`](app) folder; you can build it yourself with `build.cmd`.
 
