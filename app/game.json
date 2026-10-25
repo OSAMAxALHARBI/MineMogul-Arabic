@@ -1,0 +1,59 @@
+{
+ "id": "MineMogul",
+ "exe_name": "MineMogulArabic",
+ "github": "OSAMAxALHARBI/MineMogul-Arabic",
+ "site_url": "https://iosamai.com/minemogul/",
+ "name": {
+  "ar": "ماين موغل",
+  "en": "MineMogul"
+ },
+ "platform": {
+  "ar": "ستيم",
+  "en": "PC (Steam)"
+ },
+ "backup_dir": "MineMogulArabic-backup",
+ "patch_root": "",
+ "steam_dir": "MineMogul",
+ "must_have": [
+  "MineMogul.exe",
+  "MineMogul_Data/sharedassets0.assets",
+  "MineMogul_Data/Managed/Unity.TextMeshPro.dll"
+ ],
+ "close_processes": [
+  "MineMogul"
+ ],
+ "folder_label": {
+  "ar": "مجلد اللعبة (اللي فيه MineMogul.exe)",
+  "en": "Game folder (the one with MineMogul.exe)"
+ },
+ "folder_hint": {
+  "ar": "اختر مجلد MineMogul في مكتبة ستيم، مثل steamapps\\common\\MineMogul.",
+  "en": "Choose the MineMogul folder in your Steam library, for example steamapps\\common\\MineMogul."
+ },
+ "mismatch": {
+  "ar": "التعريب مسوّى لنسخة ستيم 0.4.0.8 (رقم البناء 25312257). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
+  "en": "The translation is made for Steam version 0.4.0.8 (build 25312257). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
+ },
+ "before": {
+  "ar": "سكّر اللعبة. التعريب يضيف العربية كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.",
+  "en": "Close the game. The translation adds Arabic as a new language; English and the other languages stay as they are."
+ },
+ "requirements": [
+  {
+   "ar": "نسخة ستيم من اللعبة، الإصدار 0.4.0.8 (رقم البناء 25312257).",
+   "en": "The Steam version of the game, version 0.4.0.8 (build 25312257)."
+  }
+ ],
+ "links": [],
+ "after_install": [
+  {
+   "ar": "شغّل اللعبة: Settings ← General ← Language ← العربية.",
+   "en": "Start the game: Settings > General > Language > العربية."
+  },
+  {
+   "ar": "إذا حدّثت ستيم اللعبة، افتح هذا البرنامج وثبّت التعريب مرة ثانية (بعد ما ينزل تحديث للتعريب).",
+   "en": "If Steam updates the game, open this program and install the translation again (once an updated translation is out)."
+  }
+ ],
+ "version": "1.0"
+}
