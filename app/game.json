@@ -31,8 +31,8 @@
   "en": "Choose the MineMogul folder in your Steam library, for example steamapps\\common\\MineMogul."
  },
  "mismatch": {
-  "ar": "التعريب مسوّى لنسخة ستيم 0.4.0.8 (رقم البناء 25312257). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
-  "en": "The translation is made for Steam version 0.4.0.8 (build 25312257). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
+  "ar": "التعريب مسوّى لنسخة ستيم 0.4.0.10 (رقم البناء 26312308). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
+  "en": "The translation is made for Steam version 0.4.0.10 (build 26312308). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
  },
  "before": {
   "ar": "سكّر اللعبة. التعريب يضيف العربية كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.",
@@ -40,8 +40,8 @@
  },
  "requirements": [
   {
-   "ar": "نسخة ستيم من اللعبة، الإصدار 0.4.0.8 (رقم البناء 25312257).",
-   "en": "The Steam version of the game, version 0.4.0.8 (build 25312257)."
+   "ar": "نسخة ستيم من اللعبة، الإصدار 0.4.0.10 (رقم البناء 26312308).",
+   "en": "The Steam version of the game, version 0.4.0.10 (build 26312308)."
   }
  ],
  "links": [],

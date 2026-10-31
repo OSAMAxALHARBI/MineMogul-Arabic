@@ -2,13 +2,13 @@
 
 <div dir="rtl">
 
-تعريب كامل لـ MineMogul (نسخة ستيم 0.4.0.8): القوائم والإعدادات والأدوات والآلات والمتجر والمهام والأبحاث والخرائط والرسائل. العربية تنضاف كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي، والنص العربي يطلع من اليمين لليسار.
+تعريب كامل لـ MineMogul (نسخة ستيم 0.4.0.10): القوائم والإعدادات والأدوات والآلات والمتجر والمهام والأبحاث والخرائط والرسائل. العربية تنضاف كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي، والنص العربي يطلع من اليمين لليسار.
 
 التعريب ما يحتوي أي ملف من ملفات اللعبة. البرنامج يعدّل ملفات اللعبة اللي عندك أنت ويحفظ نسخة من الأصلية.
 
 ## اللي تحتاجه
 
-1. نسخة ستيم من MineMogul، **الإصدار 0.4.0.8** (رقم البناء 25312257).
+1. نسخة ستيم من MineMogul، **الإصدار 0.4.0.10** (رقم البناء 26312308).
 
 ## الخطوات
 
@@ -33,7 +33,7 @@
 
 ## English
 
-Complete Arabic translation of MineMogul (Steam version 0.4.0.8): menus, settings, tools and machines, shop, quests,
+Complete Arabic translation of MineMogul (Steam version 0.4.0.10): menus, settings, tools and machines, shop, quests,
 research, maps and messages. Arabic is added as a new language; English and the other languages stay as they are, and
 Arabic text reads right to left.
 
@@ -41,7 +41,7 @@ No game file is included. The program patches the game files of your own copy an
 
 ### What you need
 
-1. The Steam version of MineMogul, **version 0.4.0.8** (build 25312257).
+1. The Steam version of MineMogul, **version 0.4.0.10** (build 26312308).
 
 ### Steps
 
